@@ -3,6 +3,6 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/AQI/',
+  base: process.env.VERCEL ? '/' : '/AQI/',
   plugins: [react()],
 })
