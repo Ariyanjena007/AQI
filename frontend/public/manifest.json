@@ -1,0 +1,16 @@
+{
+  "name": "AQ Intelligence",
+  "short_name": "AQI",
+  "description": "Understand Your Air. Predict Your Environment. Real-time environmental intelligence platform connected to Arduino UNO Q edge sensors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8F6",
+  "theme_color": "#39745A",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
